@@ -6,6 +6,9 @@ public class Cat {
     public int catSpeed;
     public int catIntelligence;
 
+    
+
+
     public Cat(String catName, int catHealth, int catStrength, int catSpeed, int catIntelligence) {
         this.catName = new String(catName);
         this.catHealth = catHealth;
