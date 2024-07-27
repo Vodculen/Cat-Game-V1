@@ -1,8 +1,7 @@
 ## MORE! BURGER!
 
-# Vodculen
+### Vodculen
 
-More burger now
 
 ## Getting Started
 
