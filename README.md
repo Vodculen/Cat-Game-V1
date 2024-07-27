@@ -2,6 +2,9 @@
 
 ### Vodculen
 
+Hallo, ich bin Vodculen und ich bin der Programmierer für dieses Projekt!
+
+### more-burger
 
 ## Getting Started
 
