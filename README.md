@@ -1,8 +1,8 @@
-## MORE! BURGER!
+## Project Developers
 
 ### Vodculen
 
-Hallo, ich bin Vodculen und ich bin der Programmierer für dieses Projekt!
+Hello, I'm Vodculen! I'm the lead programmer for this project and currently working on it.
 
 ### more-burger
 
